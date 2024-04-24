@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming for internet and english.
 - 💞️ I’m looking to collaborate in new development-related projects.
 - 📫 How to reach me - via instagram(@augusto.sz) and linkedin(Augusto Souza).
-- 👨‍🎓 I'm in english student and a high school student at IFPI
+- 👨‍🎓 I am an English student and a higher education student at UNINASSAU
 <!---
 Augusto30sZ/Augusto30sZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
